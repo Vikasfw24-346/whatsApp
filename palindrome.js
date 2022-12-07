@@ -6,7 +6,7 @@ function reverse(){
   }
   return bag;
 }
-let ans=reverse(name);
+let ans==reverse(name);
 if(ans==name){
   console.log("It's palindrome");
 }else{
