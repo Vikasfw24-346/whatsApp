@@ -12,3 +12,6 @@ if(ans==name){
 }else{
   console.log("It's not palindrome")
 }
+
+
+Thank you so much
